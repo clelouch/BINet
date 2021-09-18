@@ -1,5 +1,5 @@
-# BiNet
-# [BPFINet: Boundary-aware Progressive Feature Integration Network for Salient Object Detection](https://doi.org/10.1016/j.neucom.2021.04.078)
+# BINet
+# [BINet: Bidirectional Interactive Network for Salient Object Detection](https://doi.org/10.1016/j.neucom.2021.09.020)
 
 This repo. is an official implementation of the *BINet* , which has been accepted in the journal *Neurocomputing, 2021*. 
 
