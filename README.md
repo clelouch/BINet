@@ -7,13 +7,13 @@ The main pipeline is shown as the following,
 ![BINet](figure/BINet.png)
 
 And some visualization results are listed 
-![results](figure/qualitative comparison.png)
+![results](figure/results.png)
 
 ![modules](figure/visualization.png)
 
-![PR Curves](figure/BINet PR Curves.png)
+![PR Curves](figure/PR.png)
 
-![F-measure Curves](figure/BINet F-measure Curves.png)
+![F-measure Curves](figure/F-measure.png)
 
 ## Dependencies 
 ```
